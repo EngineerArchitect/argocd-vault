@@ -9,5 +9,5 @@ mongodb:
 
 schoolapp-api:
   vault:
-    status: 'disable'
-    kind: 'disable'
+    status: 'disabled'
+    kind: 'disabled'
